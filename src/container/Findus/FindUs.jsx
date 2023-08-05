@@ -17,8 +17,8 @@ const FindUs = () => (
     </div>
         <button type='button' className='custom__button' style={{margin:'2rem 0'}}>Visit Us</button>
     </div>
-    <div className="app__wrapper_img">
-      <img src={images.findus} alt="findus" />
+    <div className="app__wrapper_img " >
+      <img src={images.findus} alt="findus"/>
     </div>
   </div>
 );
